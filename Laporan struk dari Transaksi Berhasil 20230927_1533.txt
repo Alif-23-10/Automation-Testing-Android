@@ -1,0 +1,3 @@
+nama penjual tidak sesuai
+nama barang 1 tidak sesuai
+sub harga perbarang1 tidak sesuai
